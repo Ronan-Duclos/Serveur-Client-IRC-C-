@@ -1,7 +1,14 @@
 A server and a client program of chat accessing people to creat/join/leave channels of communications.
 
-server : ./serveur <port>
-client : ./client <address IP host> <port>
+to launch it :
+
+1. make
+
+server : 
+2. ./serveur <port>
+
+client : 
+3. ./client <address IP host> <port>
 
 then from the client you can give the following commands : 
 
